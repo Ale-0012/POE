@@ -1,0 +1,1 @@
+![Vista previa del proyecto](./imagen-prueba.png)
